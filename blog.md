@@ -8,4 +8,4 @@ I am excited to get into the programming portion specifically React
 i am interested in developing tools related to outdoor activities and outdoor gear pricing structures 
 
 
-![wooded road](elijahwenndt.github.io/img/pexels-holiho-1112186.jpg)
+![wooded road](img/pexels-holiho-1112186.jpg)
