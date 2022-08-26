@@ -6,3 +6,6 @@ the first week was generally as expected. navigating github can be a little time
 I am excited to get into the programming portion specifically React
 ### What is something about you that can only be learned by reading this blog?:
 i am interested in developing tools related to outdoor activities and outdoor gear pricing structures 
+
+
+![wooded road](elijahwenndt.github.io/img/pexels-holiho-1112186.jpg)
