@@ -1,2 +1,1 @@
-# elijah-wenndt-blog
-blog project for awesome inc
+this is a blog project for awesome inc
