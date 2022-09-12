@@ -16,4 +16,11 @@ keeping a more consistant schedule
 i typically solve a problem by research. i enjoy delving into a topic until i can personally understand the problem at hand
 ### What methods do you use to help yourself get unstuck?
 a combination of google and youtube! i also have no trouble asking for help when needed!
+## 9/9/22
+### What are your thoughts about the roles HTML, CSS, and JavaScript play in the process of rendering content and providing user experience?
+I believe the best way to answer this is using the house example. HTML is like the structure of the house. It gives the structure and definitions for the rest of the house to function. The CSS is like the design and paint. While not necessary to a websites function, it can make it usuable for an average user and keep the page contents organized. Javascript is like the electricity and plumbing. While everything else is useful and necessary the javascript is what makes the page run. 
+### What are some objects that your blog incorporates?
+So far nothing much. I currently have an image posted but i will update the blog as we progress!
+### What are your thoughts on pseudocoding?
+pseudocoding is a powerful tool that can help you break down a complicated problem without having to directly have an answer in the language you are using. It is a great and necessary first step when working on a coding project. 
 ![wooded road](img/pexels-holiho-1112186.jpg)
