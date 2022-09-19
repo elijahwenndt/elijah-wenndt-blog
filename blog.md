@@ -23,4 +23,11 @@ I believe the best way to answer this is using the house example. HTML is like t
 So far nothing much. I currently have an image posted but i will update the blog as we progress!
 ### What are your thoughts on pseudocoding?
 pseudocoding is a powerful tool that can help you break down a complicated problem without having to directly have an answer in the language you are using. It is a great and necessary first step when working on a coding project. 
+## 9/16/22
+### What was helpful during Onboarding working remotely?
+a combination of the help channel in slack, the instructors being available to answer questions, and the structure of the assignments given out through google with accompanying slides to assist in understanding.
+### What hindered your progress during Onboarding?
+i do not work well by myself. in a purely online learning environment, i struggle with motivation and how to get started with an assignment. working online negatively effects my understanding and accomplishments of tasks assigned. the tools and information provided to us was significant, but i am an in person learner. i need hands on, in-person instruction to feel confident in the assignments and learning materials that are given
+### How did you overcome challenges during Onboarding?
+using a combination of google, the help channel, and collaboration between students has helped me overcome the challenges i have faced during onboarding. specifically being able to collaborate with other students has increased my confidence and understanding of the concepts and materials given so far.  
 ![wooded road](img/pexels-holiho-1112186.jpg)
