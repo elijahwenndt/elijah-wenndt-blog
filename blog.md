@@ -1,7 +1,7 @@
 # elijah-wenndt-blog
 ## blog project for awesome inc
 ## 8/26/22
-###/ Was your first week what you expected? Why? Why not?:
+### Was your first week what you expected? Why? Why not?:
 the first week was generally as expected. navigating github can be a little time consuming
 ### What are you excited or eager to learn more about?:
 I am excited to get into the programming portion specifically React
